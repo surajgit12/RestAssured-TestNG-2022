@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-13T18:34:00 IST" name="Default suite" finished-at="2021-05-13T18:34:08 IST" duration-ms="7682">
+    <groups>
+    </groups>
+    <test started-at="2021-05-13T18:34:00 IST" name="Default test" finished-at="2021-05-13T18:34:08 IST" duration-ms="7682">
+      <class name="com.qa.Employee.testCases.TC003_Post_Employee_Records">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.Employee.testCases.TC003_Post_Employee_Records@6392827e]" started-at="2021-05-13T18:34:00 IST" name="setUp" finished-at="2021-05-13T18:34:00 IST" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="Create_New_User()[pri:0, instance:com.qa.Employee.testCases.TC003_Post_Employee_Records@6392827e]" started-at="2021-05-13T18:34:00 IST" name="Create_New_User" finished-at="2021-05-13T18:34:08 IST" duration-ms="7457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create_New_User -->
+        <test-method signature="checkResposeBody()[pri:0, instance:com.qa.Employee.testCases.TC003_Post_Employee_Records@6392827e]" started-at="2021-05-13T18:34:08 IST" name="checkResposeBody" finished-at="2021-05-13T18:34:08 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResposeBody -->
+      </class> <!-- com.qa.Employee.testCases.TC003_Post_Employee_Records -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
